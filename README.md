@@ -159,16 +159,16 @@ run('emotion_detection_script.m');
 
 ## Applications
 
-- 🎮 **Human–Computer Interaction (HCI)**  
-- 🧍 **Healthcare and Therapy Monitoring**  
-- 🚗 **Driver Alertness Systems**  
-- 🧑‍🏫 **Adaptive E-Learning Systems**  
-- 🛡️ **Smart Surveillance and Security**  
-- 📈 **Marketing and Consumer Behavior Analysis**
+-  **Human–Computer Interaction (HCI)**  
+-  **Healthcare and Therapy Monitoring**  
+-  **Driver Alertness Systems**  
+-  **Adaptive E-Learning Systems**  
+-  **Smart Surveillance and Security**  
+- **Marketing and Consumer Behavior Analysis**
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Integration of **deep learning (CNN/RNN)** models  
 - Multimodal emotion recognition (facial + voice)  
